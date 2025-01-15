@@ -7,6 +7,6 @@ Select restaurant:
 
 [Le Sajj](https://lesajj.com/)
 
-[Back to European](european.md.txt)
+[Back to European](european.md)
 [Start Over](../home.md)
 
